@@ -1,0 +1,28 @@
+{
+    "requiredfiles": [
+        {
+            "name": "Java Runtime 17.0.1",
+            "url": "https://github.com/Eternal-ll/ethereal-faf-client-static/raw/main/files/jre.rar"
+        },
+        {
+            "name": "FAF UID generator",
+            "url": "https://github.com/FAForever/uid/releases/download/v4.0.5/faf-uid.exe"
+        },
+        {
+            "name": "FAF ICE Adapter",
+            "url": "https://github.com/FAForever/java-ice-adapter/releases/download/v3.3.6/faf-ice-adapter-v3.3.6-win.jar"
+        },
+        {
+            "name": "Neroxis Map Generator",
+            "url": "https://github.com/FAForever/Neroxis-Map-Generator/releases/download/1.11.0/NeroxisGen_1.11.0.jar"
+        },
+        {
+            "name": "FA debugger",
+            "url": "https://github.com/FAForever/FADeepProbe/releases/download/v1.2/FADeepProbe.exe"
+        }
+    ],
+    "java-runtime": "https://github.com/Eternal-ll/ethereal-faf-client-static/raw/main/files/jre.rar",
+    "faf-ice-adapter": "https://github.com/FAForever/java-ice-adapter/releases/download/v3.3.6/faf-ice-adapter-v3.3.6-win.jar",
+    "faf-uid":"https://github.com/FAForever/uid/releases/download/v4.0.5/faf-uid.exe",
+    "fa-debugger": "https://github.com/FAForever/FADeepProbe/releases/download/v1.2/FADeepProbe.exe"
+}
